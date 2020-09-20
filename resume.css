@@ -1,0 +1,121 @@
+
+div
+{
+    border-radius: 5px;
+    }
+#myname{
+	width: 100%;
+	font-family: serif;
+background-color: black;
+ border-radius: 10px;
+color:white;
+margin-right: 10%;
+text-align:center;
+}
+
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height:40px;
+    width: 98%;
+    background-color: #668284;
+    margin-bottom: 10px
+    }
+
+#name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: red;
+}
+
+#email{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: fantasy,serif;
+	color: #ffffff;
+}
+#para{
+
+color: black;
+}
+#mail{
+	font-family: serif;
+    border-radius: 10px;
+    padding: 5px;
+background-color: teal;
+color:white;
+margin-top: 0;
+text-align:left;
+}
+h4, span, #contact
+{
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #000000;
+	margin-left: 0px;
+	text-align: left;
+    }
+
+a:hover {
+    font-weight: bold;
+}
+
+p{
+	color:black; 
+}
+.right
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+     height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+    }
+
+
+    
+#footer
+{
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color: #C1E3E1;
+    }
+    
+h3
+{
+
+   width: 99%; 
+    font-family: serif;
+    border-radius: 10px;
+    padding: 5px;
+background-color: teal;
+color:white;
+margin-right: 10%;
+text-align:left;
+    }
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid lightBlue;
+    }
+
+#course-name
+{
+    font-weight:bold;
+    }
+#heading
+{
+    font-weight:bold;
+    }
